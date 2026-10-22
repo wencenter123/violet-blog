@@ -48,7 +48,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "Auto Memories Doll",
 
 	// 站点 URL
-	site_url: "https://violet-blog.pages.dev",
+	site_url: "https://violet-blog.2516734546.workers.dev",
 
 	// 站点描述
 	description:
